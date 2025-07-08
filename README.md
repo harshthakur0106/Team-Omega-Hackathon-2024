@@ -55,7 +55,6 @@ This project utilizes a range of technologies to deliver high performance and sc
 
 ## Authors
 
-- [Ayush Katre](https://www.github.com/ayushkatre05)
 
 
 
