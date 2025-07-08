@@ -28,7 +28,7 @@ This project utilizes a range of technologies to deliver high performance and sc
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AyushKatre05/Team-Omega-Hackathon-2024.git
+   git clone https://github.com/harshthakur0106/Team-Omega-Hackathon-2024.git
 
 2. Navigate to the project directory:
     ```bash
